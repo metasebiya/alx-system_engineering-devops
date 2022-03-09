@@ -1,0 +1,2 @@
+#!/bin/bash
+cat list | ls -S | uniq -u
