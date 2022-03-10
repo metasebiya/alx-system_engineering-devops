@@ -1,0 +1,19 @@
+total 76
+drwxrwxr-x 2 metasebiya metasebiya  4096 Mar  8 12:43 .
+drwxrwxr-x 6 metasebiya metasebiya  4096 Mar  8 10:25 ..
+-rwxrw-r-- 1 metasebiya metasebiya    43 Mar  8 10:34 0-hello_world
+-rw------- 1 metasebiya metasebiya 12288 Mar  8 10:28 .0-hello_world.swp
+-rwxrw-r-- 1 metasebiya metasebiya    28 Mar  8 11:10 1-confused_smiley
+-rw-rw-r-- 1 metasebiya metasebiya    22 Mar  8 10:53 1-confused_smiley~
+-rwxrw-r-- 1 metasebiya metasebiya    28 Mar  8 11:13 2-hellofile
+-rwxrw-r-- 1 metasebiya metasebiya    39 Mar  8 11:31 3-twofiles
+-rwxrw-r-- 1 metasebiya metasebiya    33 Mar  8 11:38 4-lastlines
+-rwxrw-r-- 1 metasebiya metasebiya    33 Mar  8 11:40 5-firstlines
+-rwxrw-r-- 1 metasebiya metasebiya    36 Mar  8 11:51 6-third_line
+-rwxrw-r-- 1 metasebiya metasebiya    82 Mar  8 12:41 7-file
+-rwxrw-r-- 1 metasebiya metasebiya    37 Mar  8 12:42 8-cwd_state
+-rw-rw-r-- 1 metasebiya metasebiya    12 Mar  8 12:37 \*\'\'Best School'\'\*$?*****:)
+-rw-rw-r-- 1 metasebiya metasebiya    12 Mar  8 12:22 \*\'Best\ School'\\\\\*$\?\*\*\*\*\*:)
+-rw-rw-r-- 1 metasebiya metasebiya    34 Mar  8 11:42 iacta
+-rw-rw-r-- 1 metasebiya metasebiya     0 Mar  8 12:43 ls_cwd_content
+-rw-rw-r-- 1 metasebiya metasebiya    30 Mar  8 10:36 README.md
